@@ -1,11 +1,10 @@
 import React from "react";
-
-function HomeImage({ text }) {
+function HomeImage(props) {
   return (
-    <div>
-      {/* <img src="#" alt={text} /> */}
-      <h1>{text}</h1>
-    </div>
+    <>
+      <img src={props.src} alt={props.text} />
+      {/* //this should from db and add dynamically */}
+    </>
   );
 }
 

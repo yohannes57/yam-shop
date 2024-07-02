@@ -27,7 +27,7 @@ function Women() {
           </Card.Body>
           <Card.Body className="card-links">
             <Card.Link href="/order">Add-to-Cart</Card.Link>
-            <Card.Link href="/home">See more</Card.Link>
+            <Card.Link href="/products">See more</Card.Link>
           </Card.Body>
         </Card>
       ))}
