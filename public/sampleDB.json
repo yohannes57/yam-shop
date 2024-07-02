@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Kemis",
+      "image": "https://i.pinimg.com/originals/21/41/3e/21413e39c07d57bc0c8cfd9afa5183e5.jpg",
+      "category": "Men",
+      "links": {
+        "addToCart": "/order",
+        "seeMore": "/home"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Women' Menen",
+      "image": "https://ethiopiantraditionaldress.com/wp-content/uploads/2022/12/Elegant-Pink-Embroidery-Tibeb-1-1024x1018.jpg",
+      "category": "Women",
+      "links": {
+        "addToCart": "/order",
+        "seeMore": "/home"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Akusum kemis",
+      "image": "https://i.pinimg.com/736x/ef/e4/4c/efe44cf494e561823fcffea8d52efbac.jpg",
+      "category": "Men",
+      "links": {
+        "addToCart": "/order",
+        "seeMore": "/home"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Gonder",
+      "image": "https://i.pinimg.com/originals/b5/4d/83/b54d835fb4f73719eea1ab458ee9f6f4.jpg",
+      "category": "Women",
+      "links": {
+        "addToCart": "/order",
+        "seeMore": "/home"
+      }
+    }
+  ]
+}
